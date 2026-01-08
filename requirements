@@ -1,7 +1,5 @@
-text
-streamlit
 numpy
-pillo
+pillow
 scikit-learn
 
 
